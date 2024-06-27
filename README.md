@@ -1,3 +1,1 @@
-# kafka_test
-# kafka_test
-# kafka_test
+# TODO: DDD, Clean Arch, DI, connect Postgres, Redis.
